@@ -25,7 +25,7 @@ html:
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)."
 
 static:
-	$(SPHINXBUILD) -b html -D templates_path=templates_standalone $(ALLSPHINXOPTS) standalone
+	$(SPHINXBUILD) -b html -D templates_path=templates_standalone -d standalone/doctrees $(SPHINXOPTS) . standalone
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)."
 

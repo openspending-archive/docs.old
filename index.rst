@@ -14,6 +14,7 @@ Contents:
    faq
    types
    data
+   loading
    api
    contact
 
