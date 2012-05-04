@@ -40,4 +40,20 @@ provided by the site.
 .. _`datahub.io`: http://datahub.io
 
 
+TODO: Explain 
+
+* Facets for search 
+* Dataset naming convention 
+* Distinguishes capex/current
+* Geocoding
+* Maps as breakdowns
+
+
+
+
+
+
+
+
+
 
